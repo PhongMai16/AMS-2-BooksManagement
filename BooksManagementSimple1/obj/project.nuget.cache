@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPbDdQV9s/tK/1b9Zio6FKRdmmtvisXm+5S8EnyXWMTkjo8EwKhob31pq/QYYnKj3boYGMfPVWq2jyLNbQ7VmA==",
+  "success": true,
+  "projectFilePath": "D:\\ASM\\ASM - C#\\BooksManagementSimple1\\BooksManagementSimple1\\BooksManagementSimple1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phong\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\phong\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\phong\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\phong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

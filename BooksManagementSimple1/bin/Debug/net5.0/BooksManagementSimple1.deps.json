@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BooksManagementSimple1/1.0.0": {
+        "runtime": {
+          "BooksManagementSimple1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooksManagementSimple1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

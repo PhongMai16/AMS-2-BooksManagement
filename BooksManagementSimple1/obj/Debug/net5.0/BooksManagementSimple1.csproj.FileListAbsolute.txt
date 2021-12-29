@@ -1,0 +1,16 @@
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\bin\Debug\net5.0\BooksManagementSimple1.exe
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\bin\Debug\net5.0\BooksManagementSimple1.deps.json
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\bin\Debug\net5.0\BooksManagementSimple1.runtimeconfig.json
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\bin\Debug\net5.0\BooksManagementSimple1.runtimeconfig.dev.json
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\bin\Debug\net5.0\BooksManagementSimple1.dll
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\bin\Debug\net5.0\ref\BooksManagementSimple1.dll
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\bin\Debug\net5.0\BooksManagementSimple1.pdb
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\BooksManagementSimple1.csproj.AssemblyReference.cache
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\BooksManagementSimple1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\BooksManagementSimple1.AssemblyInfoInputs.cache
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\BooksManagementSimple1.AssemblyInfo.cs
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\BooksManagementSimple1.csproj.CoreCompileInputs.cache
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\BooksManagementSimple1.dll
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\ref\BooksManagementSimple1.dll
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\BooksManagementSimple1.pdb
+D:\ASM\ASM - C#\BooksManagementSimple1\BooksManagementSimple1\obj\Debug\net5.0\BooksManagementSimple1.genruntimeconfig.cache
